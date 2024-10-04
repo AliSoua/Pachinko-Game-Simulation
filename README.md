@@ -12,7 +12,7 @@ Prerequisites:
 A C compiler like gcc must be installed on your system.
 Steps to Run:
 Clone the repository or download the ZIP file:
-git clone https://github.com/yourusername/Pachinko-Game-Simulation.git
+git clone https://github.com/AliSoua/Pachinko-Game-Simulation.git
 Alternatively, you can download the project as a ZIP and extract it.
 
 Compile the Game: Open a terminal in the project directory and run:
