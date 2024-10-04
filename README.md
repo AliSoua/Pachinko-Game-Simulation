@@ -30,4 +30,4 @@ bash<br>rough the board.<br>
   ./pachinko<br>
   Controls:<br>
   -The game will prompt you to release balls.<br>
-  -Enter the required input, and watch the results displayed in the terminal as the balls fall th
+  -Enter the required input, and watch the results displayed in the terminal as the balls fall randomly in the tree
